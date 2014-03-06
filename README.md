@@ -1,0 +1,4 @@
+Repromise
+=========
+
+Retry Q promises
