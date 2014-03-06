@@ -1,5 +1,5 @@
-Repromise
-=========
+Retry
+=====
 
 Retry Q promises.
 
