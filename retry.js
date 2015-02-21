@@ -12,7 +12,7 @@ var _retry = function (promiser, left, deferred, interval) {
             }
             else {
                 setTimeout(function () {
-                    _retry(promiser, left - 1, deferred);
+                    _retry(promiser, left - 1, deferred, interval);
                 }, interval);
             }
         });
