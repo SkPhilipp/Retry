@@ -1,7 +1,7 @@
 Retry
 =====
 
-Retry Q promises.
+Utility for automatically retrying functions which return Q promises.
 
     /**
      * Returns a promise that only gets resolved when promiser's promise gets resolved. The promise is rejected when the
